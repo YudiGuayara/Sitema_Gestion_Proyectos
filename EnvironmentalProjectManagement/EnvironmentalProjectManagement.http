@@ -1,0 +1,6 @@
+@EnvironmentalProjectManagement_HostAddress = http://localhost:5152
+
+GET {{EnvironmentalProjectManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
